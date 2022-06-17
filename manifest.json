@@ -1,6 +1,6 @@
 {
-    "name": "i_knowledge_admin",
-    "short_name": "i_knowledge_admin",
+    "name": "offers_website",
+    "short_name": "offers_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
