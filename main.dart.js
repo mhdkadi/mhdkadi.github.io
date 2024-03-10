@@ -127955,7 +127955,7 @@ return A.l($async$bW,r)},
 xJ(){var s=0,r=A.m(t.H),q=this
 var $async$xJ=A.i(function(a,b){if(a===1)return A.j(b,r)
 while(true)switch(s){case 0:s=2
-return A.h(q.cE(new A.az4(q),A.a([" "],t.s),B.z),$async$xJ)
+return A.h(q.cE(new A.az4(q),A.a(["EventView"],t.s),B.z),$async$xJ)
 case 2:return A.k(null,r)}})
 return A.l($async$xJ,r)},
 DA(){var s=0,r=A.m(t.H),q=this
