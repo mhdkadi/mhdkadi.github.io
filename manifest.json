@@ -1,11 +1,11 @@
 {
-    "name": "Ticket Easy",
-    "short_name": "Tickets",
+    "name": "I-Knowledge Admin",
+    "short_name": "I-K Admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "I-Knowledge Admin",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
